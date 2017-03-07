@@ -1,0 +1,24 @@
+{
+ "dinosaurs": [
+   {
+   	"name": "Frank",
+   	"type": "T-Rex",
+   	"food": "Smaller dinos",
+   	"url": "https://s-media-cache-ak0.pinimg.com/originals/07/55/45/075545c2d8ff5a117058b422ed7374e1.jpg"
+   },
+
+   {
+   	"name": "Smitty",
+   	"type": "Apatosaurous",
+   	"food": "greens",
+   	"url": "http://images.dinosaurpictures.org/apatosaurus_1_6a5c.jpg"
+   },
+
+   {
+   	"name": "Pat",
+   	"type": "Raptor",
+   	"food": "Smallish dinos",
+   	"url": "http://img08.deviantart.net/a78b/i/2015/082/4/8/charlie_chaplin_raptor_by_pyro_raptor-d8mwmc3.png"
+   }
+ ]
+}
